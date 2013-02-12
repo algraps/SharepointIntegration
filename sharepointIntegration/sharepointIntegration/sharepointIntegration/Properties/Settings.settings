@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="sharepointIntegration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sharepointIntegration_Copy_Copy" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://spt-01:81/_vti_bin/copy.asmx</Value>
+    </Setting>
+    <Setting Name="sharepointIntegration_Lists_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://spt-01:81/_vti_bin/lists.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
