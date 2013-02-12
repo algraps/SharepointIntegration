@@ -1,4 +1,4 @@
-Performance-Counters
+SharepointIntegration
 ====================
 
 Integration with sharepoint
